@@ -4,12 +4,16 @@ TRABALHO TELA GOV
 
 Servidores e trabalhadores terceirizados, especialmente com menor familiaridade tecnológica, têm dificuldade e frustração ao assinar documentos no portal Gov.br pelo celular. Os obstáculos: interface pouco intuitiva para upload, fluxo confuso de validação por código (OTP) e falta de feedback claro de que a assinatura foi concluída — gerando insegurança e abandono.
 
+
 Evidências:
+
 
 Dificuldade em localizar o botão de upload na versão mobile.
 Confusão sobre onde posicionar a assinatura visual na folha pela tela de toque.
 Incerteza se o código recebido por SMS/app é do login ou da assinatura.
 Usuários não sabem onde o documento baixado foi salvo para enviá-lo ao RH.
+
+
 2. Persona — Márcio Silveira
 	
 Idade	57 anos
