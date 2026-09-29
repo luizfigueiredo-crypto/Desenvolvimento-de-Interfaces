@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Primeiro Documento HTML</title>
+</head>
+<body>
+  <h1>Olá, Mundo!</h1>
+  <p>Este é o meu primeiro documento HTML.</p>
+</body>
+</html>
+
+<h1>Este é um Cabeçalho de Nível 1</h1>
+<h2>Este é um Cabeçalho de Nível 2</h2>
+<p>Este é um parágrafo de texto.</p>
+
+<ol>
+  <li>Primeiro item</li>
+  <li>Segundo item</li>
+  <li>Terceiro item</li>
+</ol>
+<a href="https://www.example.com" target="_blank">Visite o Example</a>
+<img src="imagem.jpg" alt="Descrição da imagem">
+<img src="porto.jpg" alt="Porto - Portugal" width="500" height="300">
